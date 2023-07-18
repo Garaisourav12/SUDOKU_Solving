@@ -23,7 +23,7 @@ This stage is the stage let you enter the desired number in the blanck spaces wh
 # Game Functionalities
 There are four main functionalities, 
 
-Reset:
+*Reset:
 
 This is the stage of the game which lets you know about the wroking or the quality cheking of the .And the 
 
