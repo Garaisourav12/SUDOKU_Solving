@@ -41,7 +41,7 @@ There are four main functionalities,
 
 * Remove Wrong: By clicking this button we can remove the wrong entry done by us, and then it will be transferred to "Check Moves" again.
   
-![solving](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/54c2a440-e10d-4dff-964a-f6209dc01456)
+  ![solving](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/54c2a440-e10d-4dff-964a-f6209dc01456)
 
 
 * Solution: This is the screen of the solution button which lets us be aware of the proper answer or the proper number entered at its proper place. After that, we can revome the solution by the same button but it is named "Remove Solution", after removing the solution it will transfer to "Solution" again.
@@ -52,7 +52,7 @@ There are four main functionalities,
 
 * Reset: This is also a good feature of our project which lets you know about the reset button or reset facility It clears numbers whether you have solved it or not.
 
-   ![reset](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/c017c4a9-b341-42a6-ba2b-eae3b7db60b6)
+  ![reset](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/c017c4a9-b341-42a6-ba2b-eae3b7db60b6)
 
 
 * Exit: This is a button where we get the feature of checking the capability of the exit button which first asks you to exit (y/n) yes or no. Then you select the proper term and move ahead.
