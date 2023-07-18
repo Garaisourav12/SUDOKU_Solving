@@ -32,30 +32,17 @@ There are four main functionalities,
 
 * Remove Wrong: By clicking this button we can remove the wrong entry done by us, and then it will be transferred to "Check Moves" again.
 
-* Solution: This is the screen of the solution button which is letting us be aware of the proper answer or the proper number entered at its proper place. After that we can revome the solution by the same button but it named "Remove Solution".
+* Solution: This is the screen of the solution button which lets us be aware of the proper answer or the proper number entered at its proper place. After that, we can revome the solution by the same button but it is named "Remove Solution", after removing the solution it will transfer to "Solution" again.
   ![solved](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/61f171d2-b28e-4912-a79f-7a89fa6e6f76)
+![checksolution](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/3a4aebb2-fec1-4f7c-8279-aebec1249928)
 
-* Reset:
-* Exit:
+* Reset: This is also a good feature of our project which lets you know about the reset button or reset facility It clears numbers whether you have solved it or not.
+  ![reset](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/c017c4a9-b341-42a6-ba2b-eae3b7db60b6)
 
-This is the stage of the game which lets you know about the wroking or the quality cheking of the .And the 
+* Exit: This is a button where we get the feature of checking the capability of the exit button which first asks you to exit (y/n) yes or no. Then you select the proper term and move ahead.
+  ![exit](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/52445d95-3f73-4aaf-a2b4-1b2696b75b2c)
 
-# Sudoku_solver_OG game  Solution button facility 
 
-![6](https://github.com/PRIYANSHDUBEY/Sudoku_solver_OG/assets/87897527/44c2b875-9ef6-42fb-863d-8bcf4b92cb5d)
 
-This is the screen of the solution button which is letting us aware with the proper answer or the proper number enter at its proper place . 
 
-# Sudoku_solver_OG game Exit button usaage
-
-![7](https://github.com/PRIYANSHDUBEY/Sudoku_solver_OG/assets/87897527/b2bb9173-7429-42fa-b472-2e2a22862fe9)
-
-This is button where we get the feature of the or checking the capability of the exit button which first ask you exit (y/n) yes or no . Then you select the proper term and move ahead . 
-
-# Sudoku_solver_OG game  Reset button Capabilities 
-
-![8](https://github.com/PRIYANSHDUBEY/Sudoku_solver_OG/assets/87897527/572ead90-1e29-4a0f-b91d-323a5df43204)
-
-This is the Last feature of our project which lets you know about the reset button or reset facility it clears numbers once you have solved it or not also . 
-
-Thank you - Priyansh Dubey 
+Thank you - Sourav Garai
