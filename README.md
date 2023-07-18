@@ -14,6 +14,10 @@ The second page of our is there which is letting us know about the freindly inte
 This is the main this image and this window or this point of time is letting us know that here you have selected no number with the popup and also its mentioning the feature added by me of the message which lets the player to know that you need to select any number in between feeding the numbers . 
 ![numberseletion](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/4517ce84-d939-474c-be29-9e1d43224f59)
 
+# Already Alocated Fields:
+We can not enter any number into those fields which are already alocated.
+![selected](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/e19d5291-4d78-418a-ac3a-404c7db9f355)
+
 
 #  Start solving the puzzle
 This stage is the stage let you enter the desired number in the blanck spaces which you make ahead step to solve the sudoku , like the number 5 you selected multiple number the more you move ahead in the game. 
@@ -23,7 +27,16 @@ This stage is the stage let you enter the desired number in the blanck spaces wh
 # Game Functionalities
 There are four main functionalities, 
 
-*Reset:
+* Check Moves: This is the stage of the game that lets you know about the working or the quality checking of the. It will be transferred as the button named "Remove Wrong"
+  ![wrongmoves](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/d845d052-41b4-494a-b5bc-581e234bdbbb)
+
+* Remove Wrong: By clicking this button we can remove the wrong entry done by us, and then it will be transferred to "Check Moves" again.
+
+* Solution: This is the screen of the solution button which is letting us be aware of the proper answer or the proper number entered at its proper place. After that we can revome the solution by the same button but it named "Remove Solution".
+  ![solved](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/61f171d2-b28e-4912-a79f-7a89fa6e6f76)
+
+* Reset:
+* Exit:
 
 This is the stage of the game which lets you know about the wroking or the quality cheking of the .And the 
 
