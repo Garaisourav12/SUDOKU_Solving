@@ -11,16 +11,17 @@ The second page of our is there which is letting us know about the freindly inte
 
 
 # No Number Selected Alert 
-This is the main this image and this window or this point of time is letting us know that here you have selected no number with the popup and also its mentioning the feature added by me of the message which lets the player to know that you need to select any number in between feeding the numbers . 
+This is the main image and this window or this point in time is letting us know that here you have selected no number with the popup and also mentions the feature added by me to the message which lets the player know that you need to select any number in between feeding the numbers. 
+
 ![numberseletion](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/4517ce84-d939-474c-be29-9e1d43224f59)
 
 # Already Alocated Fields:
-We can not enter any number into those fields which are already alocated.
+We can not enter any number into those fields which are already allocated.
 ![selected](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/e19d5291-4d78-418a-ac3a-404c7db9f355)
 
 
 #  Start solving the puzzle
-This stage is the stage let you enter the desired number in the blanck spaces which you make ahead step to solve the sudoku , like the number 5 you selected multiple number the more you move ahead in the game. 
+This stage is stage lets you enter the desired number in the blank spaces which you make ahead step to solve the sudoku, like the number 5 you select multiple number the more you move ahead in the game. 
 ![solving](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/5cfb5ae3-430f-4674-9c24-4efc4a0b1d12)
 
 
