@@ -1,4 +1,4 @@
-# SUDOKU_Solving
+# SUDOKU SOLVER
 
 @Aouthor "Sourav Garai"
 
