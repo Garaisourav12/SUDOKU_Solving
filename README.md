@@ -10,7 +10,7 @@ Sudoku is a combinatorial number-placement puzzle with a 9 x 9 cell grid partial
 ![home](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/5f52abbd-6000-4f13-8c9e-c475735a73b3)
 
 
-# Gameplay
+# Gameplay Overview With Snaps
 Our Second layout or second view of next page 
 The second page of our is there which is letting us know about the freindly interface of the game pannel looking from the top to bottom of the page and this let us know that the number in the pannels are here which let us know that the number block are here which are having the number already as well as its showing empty spaces these are having no number selected . 
 
@@ -64,4 +64,5 @@ There are four main functionalities,
   ![exit](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/52445d95-3f73-4aaf-a2b4-1b2696b75b2c)
 
   
-    *Thank you - Sourav Garai*
+    *Thank you
+    Sourav Garai*
