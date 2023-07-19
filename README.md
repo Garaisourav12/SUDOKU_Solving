@@ -1,4 +1,8 @@
 # SUDOKU_Solving
+
+@Aouthor "Sourav Garai"
+
+# Introduction
 This is our first ever screen which is defining the first page of the project where we can see that the play button is there with the exciting outer page which the button is only having the power to enter.
 As the name indicates, the project is to solve a Sudoku puzzle. It also includes some special features. 
 Sudoku is a combinatorial number-placement puzzle with a 9 x 9 cell grid partially filled in with numbers from 1 to 9. The goal is to fill the remaining, blank fields with the rest of the numbers so that each row and column will have only one number of each kind.
