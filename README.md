@@ -64,5 +64,5 @@ There are four main functionalities,
   ![exit](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/52445d95-3f73-4aaf-a2b4-1b2696b75b2c)
 
   
-    *Thank you
-    Sourav Garai*
+    *Thank you*
+    *Sourav Garai*
