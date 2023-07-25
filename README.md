@@ -1,8 +1,8 @@
 # SUDOKU SOLVER
 This repository contains a simple implementation of the classic Sudoku Solver as a GUI Application using 
-  * Apache Netbins
-  * Java Swing
-  * AWT
+  * Apache NetBeans IDE
+  * Java Swing Library
+  * AWT Library
   * Maven Dependency.
 
 # Summary
