@@ -89,7 +89,7 @@ This is a button where we get the feature of checking the capability of the exit
 # Upcoming Updates
  * A random puzzle will be generated after every time reset.
  * Every puzzle will be solved by the sudoku-solving algorithm using backtracking and recursion.
- * After solving the puzzle correctly if you press on "Check Moves" it will show a pop-up "Congratulations message" and give options of Restarting with a new puzzle or Exit.
+ * After solving the puzzle correctly if you press on "Check Moves" it will show a pop-up "Congratulations" message and give options of Restarting with a new puzzle or Exit.
  
 # References
  * IDE or text editor: Like Apache NetBeans IDE 18 etc.
