@@ -8,8 +8,6 @@ This repository contains a simple implementation of the classic Sudoku Solver as
 # Summary
 * The project is a game that allows the user to solve Sudoku puzzles.
 * The aim of the project is to recreate the experience of solving Sudoku puzzles that people used to do in newspapers.
-* The session will discuss the features of the game and have a live demo.
-* In upcoming sessions, the project will be built together.
 * The game consists of a 9x9 grid of boxes that can be filled with digits from 1 to 9.
 * The game has a reset button, an exit button, a solution button, and a check moves button.
 * The reset button empties the whole grid, the exit button closes the execution, the solution button fills the grid with expected solutions, and the check moves button checks whether the move is correct or not.
