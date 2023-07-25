@@ -49,7 +49,7 @@ This stage is stage lets you enter the desired number in the blank spaces which 
 
 
 # Game Functionalities
-There are four main functionalities, 
+There are four buttons with four main functionalities, 
 
 # Check Moves: 
 This is the stage of the game that lets you know about the working or the quality checking of the. It will be transferred as the button named "Remove Wrong"
@@ -81,4 +81,13 @@ This is a button where we get the feature of checking the capability of the exit
   
   ![exit](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/52445d95-3f73-4aaf-a2b4-1b2696b75b2c)
 
-Thank you-Sourav Garai
+# Upcoming Updates
+ * A random puzzle will be generated after every time reset.
+ * Every puzzle will be solved by the sudoku-solving algorithm using backtracking and recursion.
+ * After solving the puzzle correctly if you press on "Check Moves" it will show a pop "Congratulations message" and give options of Restarting with a new puzzle or Exit.
+ 
+# References
+ * IDE or text editor: Like Apache NetBeans IDE 18 etc.
+ * Java runtime environments installed. Refer to Oracle's official documentation.
+ * Get support and information about the Java language from Oracle.
+ * Stay updated with the latest version releases at the official build.
