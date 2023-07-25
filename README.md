@@ -79,7 +79,7 @@ This is a button where we get the feature of checking the capability of the exit
   
   ![exit](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/52445d95-3f73-4aaf-a2b4-1b2696b75b2c)
 
-# How to Setup the Game in Your Device
+# How to Setup the Game in Any Device
 * Just download the SUDOKU_Solving file from Sudoku Solver or from This Link.
 * Run the jar file. You will be directed to the homepage.
 * Click on the "Get Started" button to start the game.
