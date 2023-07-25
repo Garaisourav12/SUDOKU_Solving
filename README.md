@@ -16,10 +16,12 @@ This repository contains a simple implementation of the classic Sudoku Solver us
 
 ## Home Page
 ![home](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/5f52abbd-6000-4f13-8c9e-c475735a73b3)
+
 Click the Get Started Button on the Home page screen to load the Sudoku Solver Game.
 
 ## Sudoku Solver
 ![gameplay](https://github.com/Garaisourav12/SUDOKU_Solving/assets/101336956/d725b398-fe3d-4056-9792-d52e0b91bf42)
+
 As the name indicates, the project is to solve a Sudoku puzzle, the ultimate game of patience and perseverance.
 Sudoku is a combinatorial number-placement puzzle with a 9 x 9 cell grid partially filled in with numbers from 1 to 9. The goal is to fill the remaining, blank fields with the rest of the numbers so that each row and column will have only one number of each kind.
 
